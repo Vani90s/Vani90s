@@ -10,7 +10,7 @@ Busco un equipo donde pueda seguir creciendo como desarrolladora backend/fullsta
 
 ## Sobre mi
 
-Fuera del código, los fines de semana los dedico a salir a pasear con mi hija y mi perrita 🐕 Un buen recordatorio de que también hay que saber desconectar para volver con la cabeza más despejada.
+Fuera del código, los fines de semana los dedico a salir a pasear con mi familia y mi perrita Nami 🐕 Un buen recordatorio de que también hay que saber desconectar para volver con la cabeza más despejada.
 
 # Estadisticas de Github
 <img width="970" height="485" alt="github-lenguajes" src="https://github.com/user-attachments/assets/0128c244-7910-4d13-921d-a892fed06699" />
