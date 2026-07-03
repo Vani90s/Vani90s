@@ -8,7 +8,7 @@ Me interesa especialmente el backend: entender cómo se relacionan los modelos, 
 
 Busco un equipo donde pueda seguir creciendo como desarrolladora backend/fullstack y aportar desde el primer día.
 
-## Sobre mi
+## Sobre mí
 
 Fuera del código, los fines de semana los dedico a salir a pasear con mi familia y mi perrita Nami 🐕 Un buen recordatorio de que también hay que saber desconectar para volver con la cabeza más despejada.
 
