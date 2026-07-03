@@ -9,3 +9,11 @@ Me interesa especialmente el backend: entender cómo se relacionan los modelos, 
 Fuera del código, los fines de semana los dedico a salir a pasear con mi hija y mi perrita 🐕 Un buen recordatorio de que también hay que saber desconectar para volver con la cabeza más despejada.
 
 Busco un equipo donde pueda seguir creciendo como desarrolladora backend/fullstack y aportar desde el primer día.
+
+# Estadisticas de Github
+<img width="970" height="485" alt="github-lenguajes" src="https://github.com/user-attachments/assets/0128c244-7910-4d13-921d-a892fed06699" />
+
+# Lenguajes trabajados
+
+<img width="1622" height="266" alt="github-iconos-lenguajes" src="https://github.com/user-attachments/assets/774614ff-cf3c-4aca-8079-ab6eddf9b58b" />
+
