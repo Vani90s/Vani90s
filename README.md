@@ -1,4 +1,4 @@
-¡Hola! Mi nombre es Vanina Rojas 👋
+#¡Hola! Mi nombre es Vanina Rojas 👋
 
 Resuelvo problemas reales con código: análisis, estructura y un poco de creatividad.
 
